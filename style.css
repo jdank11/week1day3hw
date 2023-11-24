@@ -1,0 +1,90 @@
+body{
+    margin-top: 2%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+header{
+    text-align: center;
+}
+.pwheading{
+    padding-top: 10px;
+    font-size: 15px;  
+}
+h1{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.emailheading{
+    font-size: 15px;
+}
+.card-body{
+    padding-bottom: 20px;
+}
+.forgotpw{
+    padding-bottom: 10px;
+    color: blue;
+    padding-left: 33%;
+}
+.forgotpw:hover{
+    color: red;
+}
+.blue:hover{
+    color: red;
+}
+main{
+
+    margin: 0 auto 20px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    border-radius: 5px;
+}
+.context{
+    margin-top: 10px;
+    font-size: 13px;
+}
+img{   
+    height: 80px;
+
+}
+.blue{
+    color: blue;
+}
+.linethru {
+    display: block;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap; 
+}
+
+.linethru > span {
+    position: relative;
+    display: inline-block;
+}
+
+.linethru > span:before,
+.linethru > span:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    width: 80px;
+    height: 1px;
+    background: lightgray;
+}
+
+.linethru > span:before {
+    right: 100%;
+    margin-right: 10px;
+}
+
+.linethru> span:after {
+    left: 100%;
+    margin-left: 10px;
+}
+.new{
+    color: lightgray;
+    font-size: 15px;
+}
+.checkbox{
+    padding-bottom: 5px;
+}
+
