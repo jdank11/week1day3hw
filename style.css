@@ -1,7 +1,7 @@
 body{
     margin-top: 2%;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 42%;
+    margin-right: 42%;
 }
 header{
     text-align: center;
@@ -23,7 +23,7 @@ h1{
 .forgotpw{
     padding-bottom: 10px;
     color: blue;
-    padding-left: 33%;
+    padding-left: 30%;
 }
 .forgotpw:hover{
     color: red;
@@ -83,6 +83,7 @@ img{
 .new{
     color: lightgray;
     font-size: 15px;
+    padding: 10px;
 }
 .checkbox{
     padding-bottom: 5px;
